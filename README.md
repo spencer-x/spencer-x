@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/spencer-x/snake.yml" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/spencer-x/snake.yml](https://github.com/spencer-x/spencer-x/blob/main/snake.yml)" alt="Snake animation" />
 
 ###
