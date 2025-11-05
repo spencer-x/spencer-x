@@ -73,8 +73,7 @@
 ###
 
 <br clear="both">
-![GitHub Snake Animation](https://github.com/spencer-x/spencer-x/blob/output/snake.svg)
 
-<img src="[https://raw.githubusercontent.com/spencer-x/snake.yml](https://github.com/spencer-x/spencer-x/blob/main/snake.yml)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/spencer-x/spencer-x/output/snake.svg" alt="Snake animation" />
 
 ###
